@@ -1,3 +1,9 @@
+Required for ubuntu
+
+apt-get install texstudio -y
+apt-get install texlive-latex-extra
+apt-get install texlive-{fonts-extra,fonts-recommended} -y
+
 # My Latex resume
 
  * Is a [nicely typeset 2-page PDF](https://rawgithub.com/cies/resume/master/cies-breijs-resume.pdf) (click the link to download mine)
